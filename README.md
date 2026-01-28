@@ -9,10 +9,9 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
 	•	2 Switches (VLANs, Trunking)<br>
 	•	4 VLANs: Sales, Engineering, Guest, HR
   </p>
-<p><img src="https://imgur.com/xqQaBaI.jpg">
-   <img src="https://imgur.com/xqQaBaI.jpg">
-   <img src="https://imgur.com/xqQaBaI.jpg">
-   <img src="https://imgur.com/xqQaBaI.jpg">
+<p><img src="https://imgur.com/tdvCev5.jpg">
+   <img src="https://imgur.com/t5nByqz.jpg">
+   <img src="https://imgur.com/si90WYR.jpg">
 </p>
 
 <h2>🌐Addressing & Routing</h2>
@@ -22,10 +21,8 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
 	•	Router-on-a-Stick used for inter-VLAN communication
 </p>
 
-<p><img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
+<p><img src="https://imgur.com/hTwbMky.png">
+   <img src="https://imgur.com/G9nlGAs.png">
 </p>
 
 
@@ -36,10 +33,10 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
 	•	Port Security on Sales, Engineering, and HR ports
 
 </p>
-<p><img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
+<p><img src="https://imgur.com/4r6qZ0m.png">
+   <img src="https://imgur.com/Y0lFkK7.png">
+	<img src="https://imgur.com/XWYUVMI.png">
+	<img src="https://imgur.com/UxOv46D.png">
 </p>
 
 <h2>🧪 Testing</h2>
@@ -48,9 +45,8 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
 	•	Internet reachability via simulated loopback<br>
 	•	Port security violation tested
 </p>
-<p><img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
+<p><img src="https://imgur.com/NaGKCrW.png">
+   <img src="https://imgur.com/8hyszIS.png">
    <img src="https://imgur.com/xqQaBaI.png">
 </p>
 
@@ -61,10 +57,7 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
 	•	Cisco Packet Tracer
 
 </p>
-<p><img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
+<p><img src="https://imgur.com/u7F4vg3.png">
 </p>
 <h2>Conclusion</h2>
 
