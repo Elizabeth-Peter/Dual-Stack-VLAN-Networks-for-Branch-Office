@@ -7,5 +7,6 @@ To design a secure and scalable branch office network that supports both IPv4 an
 - Reduce broadcast traffic
 - Allow easier management
 Router-on-a-Stick was used to enable communication between VLANs.
-<img src="https://imgur.com/a/Xav4qYl.jpg"></p>  
+    <br>
+<img src="https://imgur.com/inq9tLc.png"></p>  
 </body>
