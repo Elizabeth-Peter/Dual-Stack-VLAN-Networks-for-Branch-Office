@@ -9,10 +9,10 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
 	•	2 Switches (VLANs, Trunking)<br>
 	•	4 VLANs: Sales, Engineering, Guest, HR
   </p>
-<p><img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
-   <img src="https://imgur.com/xqQaBaI.png">
+<p><img src="https://imgur.com/xqQaBaI.jpg">
+   <img src="https://imgur.com/xqQaBaI.jpg">
+   <img src="https://imgur.com/xqQaBaI.jpg">
+   <img src="https://imgur.com/xqQaBaI.jpg">
 </p>
 
 <h2>🌐Addressing & Routing</h2>
