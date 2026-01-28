@@ -9,8 +9,11 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
 	•	2 Switches (VLANs, Trunking)<br>
 	•	4 VLANs: Sales, Engineering, Guest, HR
   </p>
-
-📷 Add topology diagram here
+<p><img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+</p>
 
 <h2>🌐Addressing & Routing</h2>
 <p>
@@ -19,7 +22,11 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
 	•	Router-on-a-Stick used for inter-VLAN communication
 </p>
 
-📷 Add IP addressing/VLSM table screenshot here
+<p><img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+</p>
 
 
  <h2>🔐Security Features</h2>
@@ -28,7 +35,11 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
 	•	SSH for remote management<br>
 	•	Port Security on Sales, Engineering, and HR ports
 
-📷 Add port security configuration screenshot here
+</p>
+<p><img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
 </p>
 
 <h2>🧪 Testing</h2>
@@ -36,17 +47,25 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
 	•	Successful IPv4 & IPv6 pings between VLANs<br>
 	•	Internet reachability via simulated loopback<br>
 	•	Port security violation tested
+</p>
+<p><img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+</p>
 
-📷 Add ping/traceroute results here
-<p>
   
 
 <h2>🛠️ Tool Used</h2>
 <p>
 	•	Cisco Packet Tracer
 
-<p>
-
+</p>
+<p><img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+   <img src="https://imgur.com/xqQaBaI.png">
+</p>
 <h2>Conclusion</h2>
 
 <p>
