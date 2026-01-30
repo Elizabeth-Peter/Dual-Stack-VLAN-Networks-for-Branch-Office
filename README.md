@@ -19,6 +19,18 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
   •	IPv4: 172.16.0.0/23 (VLSM applied)<br>
 	•	IPv6: Unique /64 per VLAN<br>
 	•	Router-on-a-Stick used for inter-VLAN communication
+
+The IPv4 network used is 172.16.0.0/23.
+Instead of wasting IP addresses, I applied VLSM (Variable Length Subnet Masking) to allocate IP ranges based on each VLAN’s size.
+
+Why VLSM?
+VLSM allows efficient use of IP addresses by assigning smaller or larger subnets depending on the number of hosts required in each VLAN.”
+Each VLAN was also assigned a unique IPv6 /64 prefix, which is the standard size for IPv6 LANs.
+This ensures future readiness and supports modern networking requirements.
+
+Since multiple VLANs exist, devices in different VLANs cannot communicate by default.
+To solve this, I used Router-on-a-Stick, where a single router interface is divided into multiple sub-interfaces, each tagged with a VLAN ID.”Each sub-interface has its own IPv4 and IPv6 gateway address, allowing controlled communication between VLANs.
+	
 </p>
 
 <p><img src="https://imgur.com/hTwbMky.png">
@@ -31,6 +43,18 @@ This project designs a secure branch office network with VLANs, Router-on-a-Stic
 	•	Device passwords and MOTD banner<br>
 	•	SSH for remote management<br>
 	•	Port Security on Sales, Engineering, and HR ports
+
+Basic device security was implemented by configuring console and VTY passwords, enabling password encryption, and setting a MOTD banner to warn unauthorized users.
+	
+SSH Configuration
+SSH was configured on the router to allow secure remote management instead of Telnet, which sends credentials in plain text.
+
+SSH encrypts traffic, making it more secure than Telnet.
+
+Port Security
+
+Port security was enabled on Sales, Engineering, and HR switch ports to limit the number of devices that can connect.
+If an unauthorized device is plugged in, the port either shuts down or restricts access.
 
 </p>
 <p><img src="https://imgur.com/4r6qZ0m.png">
